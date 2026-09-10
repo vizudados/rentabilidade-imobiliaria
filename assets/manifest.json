@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "createdAt": "2026-09-10T01:58:29.3104101Z",
+  "playlistOrder": [
+    "pov",
+    "bessa"
+  ],
+  "assets": [
+    {
+      "id": "pov",
+      "file": "capa-loop-pov-eaf146aa3527.mp4",
+      "sha256": "eaf146aa352794389a1502feced19bb2a474c4e500b317a8f2b2eb83e5bf136f",
+      "bytes": 11421615,
+      "codec": "H.264",
+      "width": 1920,
+      "height": 1080,
+      "fps": 24,
+      "durationSeconds": 10.041667,
+      "audio": false,
+      "treatment": "Original encoded video stream preserved; faststart container"
+    },
+    {
+      "id": "bessa",
+      "file": "capa-loop-bessa-39b72d6a8a7f.mp4",
+      "sha256": "39b72d6a8a7ffffc2273678cfb46d4f2e9eaae2b2f46c657f3e5ea203b654bce",
+      "bytes": 12712290,
+      "codec": "H.264",
+      "width": 1920,
+      "height": 1080,
+      "fps": 24,
+      "durationSeconds": 10.041667,
+      "audio": false,
+      "treatment": "Original encoded video stream preserved; faststart container"
+    }
+  ],
+  "sourcePhoto": "https://commons.wikimedia.org/wiki/File:Bairro_do_Bessa_em-_Jo%C3%A3o_Pessoa.jpg",
+  "sourcePhotoLicense": "CC0 1.0",
+  "sourcePhotoAuthor": "TiagoLubiana",
+  "generatedVideo": true,
+  "financialValuesBaked": false
+}

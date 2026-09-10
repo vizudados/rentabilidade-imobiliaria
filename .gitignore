@@ -1,0 +1,10 @@
+*
+!.gitignore
+!.nojekyll
+!README.md
+!assets/
+assets/*
+!assets/capa-intro-*.mp4
+!assets/capa-loop-*.mp4
+!assets/capa-poster-*.jpg
+!assets/manifest.json
