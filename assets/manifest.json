@@ -1,38 +1,42 @@
 {
-  "version": 1,
-  "createdAt": "2026-09-10T01:58:29.3104101Z",
+  "version": 2,
+  "createdAt": "2026-09-10T16:24:46.2036810Z",
   "playlistOrder": [
     "pov",
     "bessa"
   ],
+  "cycleDurationSeconds": 15,
   "assets": [
     {
       "id": "pov",
-      "file": "capa-loop-pov-eaf146aa3527.mp4",
-      "sha256": "eaf146aa352794389a1502feced19bb2a474c4e500b317a8f2b2eb83e5bf136f",
-      "bytes": 11421615,
+      "file": "capa-loop-pov-2ee61702af91.mp4",
+      "sha256": "2ee61702af915565b6d73c87b53ab5a4b932a6438391fc1aa3a405624ad85351",
+      "bytes": 11373762,
       "codec": "H.264",
       "width": 1920,
       "height": 1080,
-      "fps": 24,
-      "durationSeconds": 10.041667,
+      "fps": 32,
+      "frames": 240,
+      "durationSeconds": 7.5,
       "audio": false,
-      "treatment": "Original encoded video stream preserved; faststart container"
+      "treatment": "Timestamps retimed3/4; original encoded packets and decoded frames preserved"
     },
     {
       "id": "bessa",
-      "file": "capa-loop-bessa-39b72d6a8a7f.mp4",
-      "sha256": "39b72d6a8a7ffffc2273678cfb46d4f2e9eaae2b2f46c657f3e5ea203b654bce",
-      "bytes": 12712290,
+      "file": "capa-loop-bessa-713aff783095.mp4",
+      "sha256": "713aff7830956bb0ec5785234111feaef2c7610762ef489f2f6b46587c6ddb2b",
+      "bytes": 12638408,
       "codec": "H.264",
       "width": 1920,
       "height": 1080,
-      "fps": 24,
-      "durationSeconds": 10.041667,
+      "fps": 32,
+      "frames": 240,
+      "durationSeconds": 7.5,
       "audio": false,
-      "treatment": "Original encoded video stream preserved; faststart container"
+      "treatment": "Timestamps retimed3/4; original encoded packets and decoded frames preserved"
     }
   ],
+  "previousAssetsPreserved": true,
   "sourcePhoto": "https://commons.wikimedia.org/wiki/File:Bairro_do_Bessa_em-_Jo%C3%A3o_Pessoa.jpg",
   "sourcePhotoLicense": "CC0 1.0",
   "sourcePhotoAuthor": "TiagoLubiana",
